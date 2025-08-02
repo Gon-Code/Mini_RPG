@@ -1,0 +1,10 @@
+/.bundle/
+/log/
+/tmp/
+*.gem
+*.rbc
+*.o
+*.so
+.DS_Store
+.bundle/
+vendor/bundle
