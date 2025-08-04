@@ -40,6 +40,21 @@ ruby bin/test_battle.rb
 
 Este script simula turnos entre dos personajes (`Legolas` y `Gonzalo`) y muestra el daño causado en cada ronda. Gana el personaje cuya salud no llegue a 0.
 
+## Tests
+
+Este proyecto usa un enfoque de desarrollo guiado por test TDD, utilizando las gemas:
+
+- minitest
+- shouda-contest
+
+Los test se encuentran en la carpeta `test/`.
+
+Para ejecutarlos, simplemente corre:
+
+```bash
+ruby <ruta relativa del test>
+```
+
 ## Objetivo del proyecto
 
 Este proyecto busca reforzar conceptos de:
